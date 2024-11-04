@@ -1,0 +1,30 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Chat Bot with Java/*
+!/Simple Chat Bot with Java/task/
+/Simple Chat Bot with Java/task/*
+!/Simple Chat Bot with Java/task/src
+
+# Project exclude paths
+/Topics/Characters/Incrementing and decrementing a character/out/
+/Topics/Characters/Incrementing and decrementing a character/out/production/classes/
+/Topics/Characters/Subtraction mystery/out/
+/Topics/Characters/Subtraction mystery/out/production/classes/
+/Topics/For loop/Arithmetic average/out/
+/Topics/For loop/Arithmetic average/out/production/classes/
+/Topics/Increment and decrement/Increase, decrease and increase an integer/out/
+/Topics/Increment and decrement/Increase, decrease and increase an integer/out/production/classes/
+/Topics/Integer types and operations/Converting minutes to hours and minutes format/out/
+/Topics/Integer types and operations/Converting minutes to hours and minutes format/out/production/classes/
+/Topics/String/Check burgs/out/
+/Topics/String/Check burgs/out/production/classes/
